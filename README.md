@@ -41,7 +41,6 @@ npm start
 yarn start
 \`\`\`
 
-5. 
 
 ## Contribución
 --------------------
