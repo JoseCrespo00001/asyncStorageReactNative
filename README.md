@@ -15,14 +15,6 @@ This is a simple React Native application that demonstrates the usage of AsyncSt
 
 
 
-Clone this repository to your local machine.
-Navigate to the project directory.
-Install the dependencies using npm or yarn:
-bash npm install or yarn install
-
-Run the application on an emulator or mobile device:
-
-
 ## Technologies Used
 --------------------
 
