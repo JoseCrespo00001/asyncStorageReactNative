@@ -11,7 +11,7 @@ This is a simple React Native application that demonstrates the usage of AsyncSt
 
 ## Capturas de Pantalla
 --------------------
-<img src="https://github.com/JoseCrespo00001/asyncStorageReactNative/assets/123144789/e44b9f3a-2c32-4c3b-8974-a9e96cbe8d9d" width="30%" height="30%">
+<img src="https://github.com/JoseCrespo00001/asyncStorageReactNative/assets/123144789/e44b9f3a-2c32-4c3b-8974-a9e96cbe8d9d" width="30%" height="30%" borderRadios:26>
 
 
 ## Tecnologías Utilizadas
