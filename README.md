@@ -9,31 +9,35 @@ This is a simple React Native application that demonstrates the usage of AsyncSt
 - Provides an option to delete the saved name from AsyncStorage.
 
 
-## Capturas de Pantalla
+## Screenshots
 --------------------
 <img src="https://github.com/JoseCrespo00001/asyncStorageReactNative/assets/123144789/e44b9f3a-2c32-4c3b-8974-a9e96cbe8d9d" width="30%" height="30%">
 
 
-## Tecnologías Utilizadas
+
+Clone this repository to your local machine.
+Navigate to the project directory.
+Install the dependencies using npm or yarn:
+bash npm install or yarn install
+
+Run the application on an emulator or mobile device:
+
+
+## Technologies Used
 --------------------
 
 - React Native
-- Axios para realizar las llamadas a la API de criptomonedas
-- API de Criptocompare para obtener los datos de cotización
+- AsyncStorage from '@react-native-async-storage/async-storage'
 
-## Instalación
+## Installation
 --------------------
 
-1. Clona este repositorio en tu máquina local.
-2. Navega hasta el directorio del proyecto.
-3. Instala las dependencias utilizando npm o yarn:
+1-Clone this repository to your local machine.
+2-Navigate to the project directory.
+3-Install the dependencies using npm or yarn:
+   bash npm install or yarn install
 
-bash
-npm install
- o
-yarn install
-
-4. Ejecuta la aplicación en un emulador o dispositivo móvil:
+4-Run the application on an emulator or mobile device:
 
 \`\`\`bash
 npm start
@@ -42,19 +46,18 @@ yarn start
 \`\`\`
 
 
-## Contribución
+## Contributing
 --------------------
 
-Si quieres contribuir a este proyecto, por favor sigue estos pasos:
+If you want to contribute to this project, please follow these steps:
 
-1. Crea un fork del repositorio.
-2. Crea una nueva rama (\`git checkout -b feature/nueva-funcionalidad\`).
-3. Realiza tus cambios y haz commits (\`git commit -am 'Añadir nueva funcionalidad'\`).
-4. Sube tus cambios a tu fork (\`git push origin feature/nueva-funcionalidad\`).
-5. Crea un nuevo Pull Request.
+1. Fork the repository.
+2. Create a new branch (\`git checkout -b feature/new-feature\`).
+3. Make your changes and commit them (\`git commit -am 'Add new feature'\`).
+4. Push your changes to your fork (\`git push origin feature/new-feature\`).
+5. Create a new Pull Request.
 
-## Licencia
+## License
 --------------------
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-`;
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
